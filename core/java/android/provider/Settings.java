@@ -4919,6 +4919,12 @@ public final class Settings {
         */
        public static final String GESTURES_ENABLED = "gestures_enabled";
 
+        /** Whether to pulse ambient on new music tracks
+         *
+         * @hide
+         */
+        public static final String PULSE_ON_NEW_TRACKS = "pulse_on_new_tracks";
+
        /**
         * Controls whether double tap to wake is enabled.
         * @hide
