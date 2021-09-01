@@ -17,4 +17,16 @@
 PRODUCT_PACKAGES := \
     DroidSansMono.ttf \
     AndroidClock.ttf \
-    fonts.xml
+    fonts.xml \
+    GoogleSans-Bold.ttf \
+    GoogleSans-BoldItalic.ttf \
+    GoogleSans-Italic.ttf \
+    GoogleSans-Medium.ttf \
+    GoogleSans-MediumItalic.ttf \
+    GoogleSans-Regular.ttf \
+    NotoSansSC-Bold.otf \
+    NotoSansSC-Light.otf \
+    NotoSansSC-Medium.otf \
+    NotoSansSC-Regular.otf \
+    NotoSansSC-Thin.otf \
+    SFMono-Regular.ttf
